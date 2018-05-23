@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "52804546538",
+    "firebase_url": "https://stutor-71b4f.firebaseio.com",
+    "project_id": "stutor-71b4f",
+    "storage_bucket": "stutor-71b4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52804546538:android:f8ee67115b69efc6",
+        "android_client_info": {
+          "package_name": "iamprogrammer.brian.com.stutor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52804546538-e2ceqthv2o9p9g8gh3ebr3bb84b9pmmj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "iamprogrammer.brian.com.stutor",
+            "certificate_hash": "388ea1d9416759c01f27e3f64b0b66072e384fb2"
+          }
+        },
+        {
+          "client_id": "52804546538-ha10pnicue76qr0u3drbahsskm6iu5bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSdn_1zUPZDjO4-pS_hosT_hzjg90iudg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52804546538-ha10pnicue76qr0u3drbahsskm6iu5bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
