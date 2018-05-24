@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="iamprogrammer.brian.com.stutor.SignInActivity"
+    tools:showIn="@layout/activity_sign_in"
+    android:background="@color/colorPrimaryDark">
+
+    <TextView
+        android:id="@+id/main_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/oswald"
+        android:padding="25px"
+        android:text="sTutor"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="120px" />
+
+    <TextView
+        android:id="@+id/sub_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/oswald"
+        android:padding="25px"
+        android:text="learn with peers"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="30px" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="40px"
+        android:orientation="vertical">
+
+        <com.github.florent37.materialtextfield.MaterialTextField
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:mtf_labelColor="#fff">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edittext_email"
+                android:inputType="textEmailAddress"
+                android:hint="Email Address"
+                android:textSize="30px"
+                android:fontFamily="@font/oswald"
+                android:textColor="#333" />
+        </com.github.florent37.materialtextfield.MaterialTextField>
+
+        <com.github.florent37.materialtextfield.MaterialTextField
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:mtf_labelColor="#fff">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edittext_password"
+                android:inputType="textPassword"
+                android:hint="Password"
+                android:textSize="30px"
+                android:fontFamily="@font/oswald"
+                android:textColor="#333" />
+        </com.github.florent37.materialtextfield.MaterialTextField>
+
+        <com.dd.processbutton.iml.ActionProcessButton
+            android:id="@+id/button_signin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:layout_gravity="center_horizontal"
+            android:text="Log In"
+            android:textColor="#000"
+            android:textSize="12sp"
+            app:pb_colorComplete="@color/green_complete"
+            app:pb_colorNormal="#fff"
+            app:pb_colorPressed="@color/blue_pressed"
+            app:pb_colorProgress="@color/purple_progress"
+            app:pb_textComplete="Success"
+            app:pb_textProgress="Loading"
+            app:pb_textError="Error"
+            app:pb_colorError="@color/red_error" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="----- or -----"
+            android:layout_margin="20dp"
+            android:textAlignment="center" />
+
+        <com.google.android.gms.common.SignInButton
+            android:id="@+id/button_signinwithgoogle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"/>
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
