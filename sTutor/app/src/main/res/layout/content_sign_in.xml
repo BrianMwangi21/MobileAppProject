@@ -71,6 +71,39 @@
                 android:textColor="#333" />
         </com.github.florent37.materialtextfield.MaterialTextField>
 
+        <com.dd.processbutton.iml.ActionProcessButton
+            android:id="@+id/button_signin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:layout_gravity="center_horizontal"
+            android:text="Log In"
+            android:textColor="#000"
+            android:textSize="12sp"
+            app:pb_colorComplete="@color/green_complete"
+            app:pb_colorNormal="#fff"
+            app:pb_colorPressed="@color/blue_pressed"
+            app:pb_colorProgress="@color/purple_progress"
+            app:pb_textComplete="Success"
+            app:pb_textProgress="Loading"
+            app:pb_textError="Error"
+            app:pb_colorError="@color/red_error" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="----- or -----"
+            android:layout_margin="20dp"
+            android:textAlignment="center" />
+
+        <com.google.android.gms.common.SignInButton
+            android:id="@+id/button_signinwithgoogle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"/>
+
+
+
     </LinearLayout>
 
 
