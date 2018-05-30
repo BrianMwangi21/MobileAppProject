@@ -21,6 +21,8 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseAuthException;
 import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
 
 
 public class SignInActivity extends AppCompatActivity {
@@ -31,27 +33,30 @@ public class SignInActivity extends AppCompatActivity {
     private FirebaseAuth.AuthStateListener mAuthListener;
     private GoogleSignInClient mGoogleSignInClient;
     private int RC_SIGN_IN = 21;
+    FirebaseDatabase database;
+    DatabaseReference myRef;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sign_in);
 
+        // Init firebase
+        database = FirebaseDatabase.getInstance();
+        myRef = database.getReference("user");
+
         // Init mAuth
         mAuth = FirebaseAuth.getInstance();
-
-        // Check
         mAuthListener = new FirebaseAuth.AuthStateListener() {
             @Override
             public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
                 FirebaseUser user = firebaseAuth.getCurrentUser();
 
-                if (user != null) {
-                    Toast.makeText( SignInActivity.this, "User found", Toast.LENGTH_SHORT ).show();
-                } else {
-                    Toast.makeText( SignInActivity.this, "User not found", Toast.LENGTH_SHORT ).show();
+                if( user != null ) {
+                    // Nothing
+                }else {
+                    // Nothing too
                 }
-
             }
         };
 
@@ -109,22 +114,7 @@ public class SignInActivity extends AppCompatActivity {
         String pass = passET.getText().toString();
 
         if( !email.isEmpty() && !pass.isEmpty() ) {
-            mAuth.signInWithEmailAndPassword( email, pass ).addOnCompleteListener(new OnCompleteListener<AuthResult>() {
-                @Override
-                public void onComplete(@NonNull Task<AuthResult> task) {
-                    if( task.isComplete() ){
-                        Toast.makeText( SignInActivity.this, "Task complete", Toast.LENGTH_SHORT).show();
-
-                        if( task.isSuccessful() ) {
-                            signinBtn.setProgress(100);
-                            Toast.makeText( SignInActivity.this, "Task successful", Toast.LENGTH_SHORT ).show();
-                        }else {
-                            signinBtn.setProgress(-1);
-                            Toast.makeText( SignInActivity.this, "Task unsuccessful", Toast.LENGTH_SHORT ).show();
-                        }
-                    }
-                }
-            });
+            // Manual sign-up
         }else {
             Toast.makeText( this, "Fill all fields", Toast.LENGTH_SHORT ).show();
         }
@@ -146,11 +136,11 @@ public class SignInActivity extends AppCompatActivity {
     private void handleSignInResult(Task<GoogleSignInAccount> completedTask) {
         try {
             GoogleSignInAccount account = completedTask.getResult(ApiException.class);
-            Toast.makeText( this, account.getDisplayName(), Toast.LENGTH_SHORT ).show();
+            myRef.setValue(account.getDisplayName());
         } catch (ApiException e) {
             // The ApiException status code indicates the detailed failure reason.
             // Please refer to the GoogleSignInStatusCodes class reference for more information.
-            Toast.makeText( this, "Failed miserably", Toast.LENGTH_SHORT).show();
+            Toast.makeText( this, "Ooops. Please try again", Toast.LENGTH_SHORT).show();
         }
     }
 }
