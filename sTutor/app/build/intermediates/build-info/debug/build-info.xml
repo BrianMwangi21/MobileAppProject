@@ -6,37 +6,25 @@
     density="xhdpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1527675811987"
+    timestamp="1527698558040"
     token="7365222853780460100"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="24424" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="8726" />
+        duration="0" />
     <task
         name="verifier"
-        duration="3506" />
+        duration="0" />
 
     <artifact
-        location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
-    <artifact
         location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\outputs\apk\debug\app-debug.apk"
@@ -45,13 +33,25 @@
         location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
     <artifact
+        location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
         location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
     <artifact
+        location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
         location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
@@ -62,22 +62,10 @@
 
     <build
         build-mode="FULL"
-        timestamp="1527675811987"
+        timestamp="1527698558040"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
             location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\outputs\apk\debug\app-debug.apk"
@@ -86,13 +74,25 @@
             location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
+            location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
             location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
+            location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
             location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\ADMIN\Desktop\3RD YEAR\Mobile Application Development\MobileAppProject\sTutor\app\build\intermediates\split-apk\debug\slices\slice_7.apk"

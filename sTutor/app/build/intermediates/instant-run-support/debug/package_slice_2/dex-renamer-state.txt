@@ -1,4 +1,4 @@
-#Wed May 30 13:28:38 EAT 2018
+#Wed May 30 19:27:04 EAT 2018
 base.0=C\:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
 path.0=classes.dex
 renamed.0=classes.dex

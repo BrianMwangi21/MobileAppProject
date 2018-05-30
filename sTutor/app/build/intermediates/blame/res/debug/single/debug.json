@@ -12,12 +12,12 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\eefbf5eb7c0f31fe9f7b480c80fa0bfa\\res\\anim\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_default.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0961db19908010a2a9421d24a831fbfe\\res\\color\\abc_tint_default.xml"
-    },
-    {
         "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
         "source": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_default.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0961db19908010a2a9421d24a831fbfe\\res\\color\\abc_tint_default.xml"
     },
     {
         "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -64,36 +64,36 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0961db19908010a2a9421d24a831fbfe\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0961db19908010a2a9421d24a831fbfe\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+        "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_password_eye.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\eefbf5eb7c0f31fe9f7b480c80fa0bfa\\res\\drawable\\design_password_eye.xml"
     },
     {
         "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0961db19908010a2a9421d24a831fbfe\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_password_eye.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\eefbf5eb7c0f31fe9f7b480c80fa0bfa\\res\\drawable\\design_password_eye.xml"
-    },
-    {
-        "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0961db19908010a2a9421d24a831fbfe\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0961db19908010a2a9421d24a831fbfe\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0961db19908010a2a9421d24a831fbfe\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0961db19908010a2a9421d24a831fbfe\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
         "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_text_material.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0961db19908010a2a9421d24a831fbfe\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0961db19908010a2a9421d24a831fbfe\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_clear_material.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0961db19908010a2a9421d24a831fbfe\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0961db19908010a2a9421d24a831fbfe\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -116,12 +116,12 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\eefbf5eb7c0f31fe9f7b480c80fa0bfa\\res\\layout\\design_navigation_item_header.xml"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0961db19908010a2a9421d24a831fbfe\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\f8402abfd966ed40189fd846058e188b\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0961db19908010a2a9421d24a831fbfe\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
@@ -156,12 +156,12 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0961db19908010a2a9421d24a831fbfe\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_out.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\eefbf5eb7c0f31fe9f7b480c80fa0bfa\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
-    },
-    {
         "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0961db19908010a2a9421d24a831fbfe\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_out.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\eefbf5eb7c0f31fe9f7b480c80fa0bfa\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
@@ -244,12 +244,12 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\eefbf5eb7c0f31fe9f7b480c80fa0bfa\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\eefbf5eb7c0f31fe9f7b480c80fa0bfa\\res\\drawable-xxhdpi-v4\\design_ic_visibility_off.png"
-    },
-    {
         "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
         "source": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\eefbf5eb7c0f31fe9f7b480c80fa0bfa\\res\\drawable-xxhdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_btn_checkable.xml.flat",
@@ -324,12 +324,12 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\644d29495f8144f66d402945be900162\\res\\layout\\notification_template_media_custom.xml"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_track_material.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0961db19908010a2a9421d24a831fbfe\\res\\drawable\\abc_seekbar_track_material.xml"
-    },
-    {
         "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\eefbf5eb7c0f31fe9f7b480c80fa0bfa\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_track_material.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0961db19908010a2a9421d24a831fbfe\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
         "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
@@ -408,12 +408,12 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0961db19908010a2a9421d24a831fbfe\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0961db19908010a2a9421d24a831fbfe\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
         "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility.png.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\eefbf5eb7c0f31fe9f7b480c80fa0bfa\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0961db19908010a2a9421d24a831fbfe\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -428,12 +428,12 @@
         "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0961db19908010a2a9421d24a831fbfe\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
-        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\644d29495f8144f66d402945be900162\\res\\layout\\notification_template_media.xml"
-    },
-    {
         "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
         "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\0961db19908010a2a9421d24a831fbfe\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\ADMIN\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\644d29495f8144f66d402945be900162\\res\\layout\\notification_template_media.xml"
     },
     {
         "merged": "C:\\Users\\ADMIN\\Desktop\\3RD YEAR\\Mobile Application Development\\MobileAppProject\\sTutor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rect_error.xml.flat",
